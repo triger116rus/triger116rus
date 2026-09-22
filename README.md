@@ -47,7 +47,7 @@ I run a multi-hypervisor lab (ESXi, Proxmox, Hyper-V, oVirt) with internal servi
 ### Contact
 
 - GitHub Issues / Discussions on any of my repositories
-- <add-your-preferred-contact-here>
+- triger116rus@gmail.com
 
 ---
 
@@ -94,4 +94,4 @@ I run a multi-hypervisor lab (ESXi, Proxmox, Hyper-V, oVirt) with internal servi
 ### Связь
 
 - GitHub Issues / Discussions в моих репозиториях
-- <добавьте предпочитаемый контакт>
+- triger116rus@gmail.com
