@@ -6,7 +6,7 @@
 
 ## 🇬🇧 English
 
-Hi, I'm **triger116rus/triger116rus* — a technical support engineer specializing in **enterprise storage and virtualization**.
+Hi, I'm **Ruslan Islamov** — a technical support engineer specializing in **enterprise storage and virtualization**.
 
 ### What I do
 
@@ -14,6 +14,13 @@ Hi, I'm **triger116rus/triger116rus* — a technical support engineer specializi
 - **VMware environments**: vSphere/ESXi administration, Horizon VDI, diagnostics and lifecycle operations.
 - **Firmware & compatibility**: cross-checking firmware matrices and interoperability between arrays, hosts, HBAs and hypervisors; planning and executing upgrades.
 - **Customer implementations**: commissioning new storage and infrastructure equipment on-site.
+
+### Now learning
+
+Expanding into **AI/LLM engineering**: building AI agents and RAG applications on top of an infrastructure background.
+
+- **Labs in progress**: n8n workflow automation, RAG on PostgreSQL + pgvector (chunking, reranking), LLM evaluation harnesses.
+- Public lab repositories will appear here as they land.
 
 ### Typical projects
 
@@ -53,7 +60,7 @@ I run a multi-hypervisor lab (ESXi, Proxmox, Hyper-V, oVirt) with internal servi
 
 ## 🇷🇺 Русский
 
-Привет, я **triger116rus/triger116rus* — инженер технической поддержки, специализируюсь на **корпоративных СХД и средах виртуализации**.
+Привет, я **Руслан Исламов** — инженер технической поддержки, специализируюсь на **корпоративных СХД и средах виртуализации**.
 
 ### Чем занимаюсь
 
@@ -62,12 +69,19 @@ I run a multi-hypervisor lab (ESXi, Proxmox, Hyper-V, oVirt) with internal servi
 - **Firmware и совместимость**: сверка матриц прошивок и интероперабельности между массивами, хостами, HBA и гипервизорами; планирование и выполнение обновлений.
 - **Имплементации у заказчиков**: ввод в эксплуатацию нового СХД и инфраструктурного оборудования.
 
+### Сейчас учусь
+
+Развиваюсь в **AI/LLM-инженерию**: строю ИИ-агентов и RAG-приложения поверх инфраструктурного бэкграунда.
+
+- **Лабы в работе**: автоматизация workflow в n8n, RAG на PostgreSQL + pgvector (чанкинг, реранкинг), evals для LLM.
+- Публичные репозитории лаб будут появляться здесь по мере готовности.
+
 ### Типовые проекты
 
 | Тип проекта | Что в него входит |
 |---|---|
 | Анализ производительности СХД | Сбор и анализ метрик массивов, поиск узких мест, capacity planning |
-| Разбор нестабильного оборудования | Root-cause-анализ флапающих/отказ компонентов по логам и дампам вендора |
+| Разбор нестабильного оборудования | Root-cause-анализ флапающих/отказавших компонентов по логам и дампам вендора |
 | Планы обновлений | Версионированные, проверяемые планы с процедурами отката и оценкой рисков |
 | Глубокий разбор инцидентов | Парсинг сырых логов оборудования (ленточные библиотеки, диски, массивы) и превращение их в выводы |
 
